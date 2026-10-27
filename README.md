@@ -1,18 +1,16 @@
-# Hi, I'm Salamah Saheed
+# Hi, I'm Salamat Saheed
 
-### AI/ML Fellow | Machine Learning | Data Analysis
+ Machine Learning | Data Analysis
 
-I'm an Agronomy graduate transitioning into Artificial Intelligence and Machine Learning, with a growing interest in using data to understand problems, build predictive models, and develop practical solutions.
+I'm an Agriculture graduate transitioning into Artificial Intelligence and Machine Learning, with a growing interest in using data to understand problems, build predictive models, and develop practical solutions.
 
 My background in agriculture taught me to pay attention to details, understand real-world challenges, and think critically about problems. I'm now building on that foundation through programming, data analysis, and machine learning.
 
 ## About Me
 
-- 🎓 BSc Agronomy, University of Ilorin
-- 🤖 Women in AI Fellowship 2026
-- 🧠 Learning and building with Python, machine learning, and data science
-- 📊 Interested in data-driven decision-making and predictive analytics
-- 🌱 Exploring opportunities at the intersection of AI, agriculture, and real-world problem-solving
+-  B.Agriculture, University of Ilorin
+-  Interested in data-driven decision-making and predictive analytics
+
 
 ## Technical Skills
 
